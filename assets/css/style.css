@@ -1,3 +1,7 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 section2 {
     width: 1440px;
 }
@@ -6,4 +10,8 @@ section2 {
 }
 .icon i {
     font-size: 100px;
+}
+
+.experiencia h5 {
+    font-size: 16px;
 }
